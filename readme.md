@@ -15,20 +15,20 @@ Site to share updated information about safe travel options.
 
 ## Getting Started
 Use this app for more safety information about travel.
-Find locations, hotel suggestions, and operating airlines.
+Find locations, hotel suggestions, and save your search for reference. 
 
 ## User Stories
 1. As a user I can search a country or city and find information about travel safeness.
 2. As a user I can find hotel recommendations in country/city of choice
 3. As a user I can read about hotel details e.g. restaurants, attractions, ratings and saftey.
-4. As a user I can find available flights.
+4. As a user I can save my search
 5. As a user I can post travel advise.
+6. As a user I can post tips/comments on hotels.
 
 
 ## Wireframe
-![wireframe](./img/TravelSafeERD.png)
-![wireframe](./img/ComponentHierarchy.png)
-![wireframe](./img/MERNflow.png)
+![wireframe](./img/ErdMERNCompH.png)
+
 
 ## Screenshots
 To follow ones app is done.
