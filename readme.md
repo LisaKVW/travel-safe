@@ -36,7 +36,7 @@ To follow ones app is done.
 ## Code snippet
 Code Snippet of API
 ![code snippet](./img/TravelAdvisoryAPI.png)
-![code snippet](./img/AmadeusAPI.png)
+![code snippet](./img/AmadeusApi.png)
 
 ## Trello link
 https://trello.com/b/lsbkPZfo/travel-safe-p2 
